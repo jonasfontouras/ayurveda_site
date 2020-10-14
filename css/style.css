@@ -1,0 +1,17 @@
+#menu ul {
+    padding:0px;
+    margin:0px;
+    background-color: white;
+    list-style:none;
+}
+
+#menu ul li {
+    display: inline;
+}
+
+.btn-nav{
+    color: #daa520;
+    background-color: white;
+    border-color: white;
+    
+}
